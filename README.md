@@ -7,5 +7,6 @@ $ cd bandit
 $ chmod +x bandit.sh
 $ cd scripts
 $ chmod +x *
+$ cd ..
 $ ./bandit.sh
 ```
