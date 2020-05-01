@@ -1,5 +1,5 @@
 # bandit
-overthewire bandit exploit with pwntools by SKane
+overthewire bandit exploit with pwntools
 # installation
 ```
 $ git clone https://github.com/SKane315/bandit.git
