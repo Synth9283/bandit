@@ -2,7 +2,7 @@
 overthewire bandit exploit with pwntools
 # installation
 ```
-$ git clone https://github.com/SKane315/bandit.git
+$ git clone https://github.com/Synth/bandit.git
 $ cd bandit
 $ chmod +x bandit.sh
 $ cd scripts
